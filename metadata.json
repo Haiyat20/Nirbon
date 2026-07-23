@@ -1,0 +1,6 @@
+{
+  "name": "Plant Order Management",
+  "description": "Mobile-friendly Plant Order Management application for managing plant products, employees, and order fulfillment with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
